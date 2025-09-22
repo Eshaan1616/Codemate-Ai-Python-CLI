@@ -18,7 +18,7 @@
 
 🤖 **AI-Powered Features**  
 - 🗣️ **Natural Language Commands** → e.g. *“show me files here”*, *“make a folder called test”*  
-- 🧠 **LLM Integration** (LLaMA / GPT) for AI understanding  
+- 🧠 **LLM Integration** (LLaMA ) for AI understanding  
 
 ⌨️ **Productivity Boosters**  
 - ✨ **Auto-completion** for faster typing  
